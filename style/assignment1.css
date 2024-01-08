@@ -125,5 +125,65 @@
     margin-right: 16px;
     margin-top: -350px;
     margin-bottom: 68px;
+}
+/* Place & time related */
+.section-AA{
+    display: flex;
+    position: ;
+    margin-bottom: 1000px;
+    width: 100%;
+    height: 100%;
+    background-color: #ff0000, #ff000000;
+}
+.section-AA-text{
+    position: relative;
     
+    font-size: 32px;
+    font-weight: 600px;
+    margin-left: 0;
+}
+.vic-img{
+    position: absolute;
+    margin-left: 200px;
+    margin-right: 16px;
+    margin-top: 350px;
+    margin-bottom: 68px;
+    align-items: center;
+}
+.text-8{
+    position: relative;
+    font-size: 32px;
+    font-weight: 600;
+    padding: 100px 386px 215px 385px;
+    background-color: #FF0000, #FF000000;
+    margin-top: 500px;
+    margin-left: 250px;
+    justify-content: center;
+}
+.text-para{
+    position: relative;
+    font-size: 32px;
+    font-weight: 600;
+    margin-top: 500px;
+    margin-bottom: 1500px;
+    margin-left: 300px;
+    padding: 100px 385px 215px 385px;
+}
+.button-2{
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    display: flex;
+    position: relative;
+    color:white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 25px 32px;
+    background-color: #f00;
+    margin-top: 50px;
+    margin-bottom: 10000px;
+   
 }
