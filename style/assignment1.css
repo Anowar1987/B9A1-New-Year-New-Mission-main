@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     font-family: 'Merriweather', serif;
+    font-family: 'Inter', sans-serif;
 }
 /* Banner related styles */
 .banner-container{
@@ -185,5 +186,60 @@
     background-color: #f00;
     margin-top: 50px;
     margin-bottom: 10000px;
-   
+}
+/* Coming soon related */
+.Coming-soon{
+    margin: 3000px 535px 3050px 600ox;
+    position: absolute;
+}
+.CS-Text-1{
+    color: #ff0000;
+    font-size: 20px;
+    font-weight: 500;
+    position: relative;
+    margin-top: 3300px;
+    margin-left: 200px;
+}
+.CS-text-2{
+    color: #070211;
+    font-size: 40px;
+    font-weight: 900;
+    position: relative;
+    margin-left: 200px;
+}
+.CS-text-3{
+    color: rgba(7, 2, 17, 1);
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 200px;
+    position: absolute;
+    /* justify-content: space-around; */
+}
+.CS-Image{
+    width: 50%;
+    height: 50%;
+    border-radius: 7000px;
+    border: 15px solid #ff0000;
+    display: flex;
+    margin-left: 600px;
+    margin-top: -220px;
+    justify-content: space-between;
+    position: relative;
+}
+.CS-text-4{
+    color: #ff0000;
+    font-size: 48px;
+    font-weight: 700;
+    margin-left: 1500px;
+    margin-top: -600px;
+}
+.CS-text-5{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 1500px;
+}
+.CS-image-1{
+    margin-left: 1500px;
+    margin-top: 43px;
 }
