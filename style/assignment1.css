@@ -4,14 +4,20 @@
     padding: 0;
     font-family: 'Merriweather', serif;
 }
+/* Banner related styles */
 .banner-container{
     position: relative;
     text-align: center;
     color: white;
+    padding: 100px auto;
+    width: 1320px;
+    height: 600px;
 }
 .banner-img{
     display: flex;
-    align-items: center;
+    align-tems: center;
+    opacity: 5;
+    margin-left: 200px;
 }
 .banner-text1{
     color: #fff;
@@ -22,12 +28,52 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    margin-bottom: 10px;
+    padding: 10ox 30px;
 }
 .banner-text2{
+    width: 630px;
+    color: white;
+    font-size: 70px;
+    font-weight: 900px;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    margin-top: 20px;
+}
+/* Happy new year related style */
+.Happy-New-Year{
+    width: 1600px;
+    padding: 120px;
+}
+.text-3{
+    color: #f00;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 88px;
+    font-weight: 700;
+    padding: 0 250px 50px 0px;
+    margin-bottom: 5px;
+}
+.text-4{
+    color: #f00;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+    padding: 0 250px 50px 0px;
+    margin-bottom: 0;
+}
+.text-5{
+    color: black;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    padding: 0 250px 50px 0px;
+}
+.happy-new-year-image{
+    width: 800px;
+    height: 500px;
+    align-items: center;
+    margin-left: 250px;
 }
