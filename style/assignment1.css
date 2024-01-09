@@ -240,4 +240,57 @@
 .CS-image-1{
     margin-left: 1500px;
     margin-top: 43px;
+    position: absolute;
+    display: block;
+}
+/* holidays-teleted-section */
+.holidays-teleted-section{
+    margin-top: 4400px;
+    margin-left: -1700px;
+    display: flex;
+    position: relative;
+    display: block;
+}
+.HS-text1{
+    text-align: center;
+    color: #070211;
+    font-size: 24px;
+    font-weight: 500;
+}
+.HS-text-2{
+    text-align: center;
+    color: #070211;
+    font-size: 70px;
+    font-weight: 900;
+}
+.HS-text-3{
+    text-align: center;
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+    font-weight: 500;
+}
+.HS-img-1{
+    margin-left: -100px;
+    margin-bottom: -200px;
+   
+    
+}
+.HS-img-2{
+    width: 86%;
+    height: 80%;
+    visibility: visible;
+    
+  
+}
+.HS-img-3{
+    margin-left: 700px;
+    margin-top: -2000px;
+    margin-bottom: 150px;
+    
+}
+.HS-img-4{
+    margin-left: 550px;
+    margin-top: -2000px;
+    margin-bottom: 250px;
+    
 }
