@@ -246,7 +246,7 @@
 /* holidays-teleted-section */
 .holidays-teleted-section{
     margin-top: 4400px;
-    margin-left: -1700px;
+    margin-left: -1200px;
     display: flex;
     position: relative;
     display: block;
@@ -271,26 +271,73 @@
 }
 .HS-img-1{
     margin-left: -100px;
-    margin-bottom: -200px;
-   
-    
+    margin-bottom: -200px; 
 }
 .HS-img-2{
     width: 86%;
     height: 80%;
     visibility: visible;
-    
-  
 }
 .HS-img-3{
     margin-left: 700px;
     margin-top: -2000px;
     margin-bottom: 150px;
-    
 }
 .HS-img-4{
     margin-left: 550px;
     margin-top: -2000px;
     margin-bottom: 250px;
-    
 }
+/* Awesome-postfolio-part */
+.Awesome-postfolio-part{
+    width: 1600px;
+    height: 7330px;
+    background: #fff;
+    margin-top: 6400px;
+    margin-left: -1300px;
+    display: flex;
+    position: relative;
+    display: block;
+}
+.AP-text-1{
+    color: #f00;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
+.AP-text-2{
+    color: #070211;
+    font-size: 48px;
+    font-weight: 900;
+    text-align: center;
+}
+.AP-text-3{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20PX;
+    font-weight: 400;
+   text-align: center;
+}
+.awesome-image-container1{
+    display: flex;
+}
+.image-container-1{
+    width: 33.33%;
+    box-sizing: border-box;
+    display: inline-flex;
+    position: absolute;
+}
+.image-container-2{
+    width: 33.33%;
+    box-sizing: border-box;
+    display: inline-flex;
+    position: relative;
+}
+.awesome-image-container-2{
+    margin: 460px;
+    margin-left: 0;
+    width: 33.33%;
+    box-sizing: border-box;
+    display: inline-flex;
+    position: relative;
+}
+
